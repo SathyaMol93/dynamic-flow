@@ -6,7 +6,7 @@
 
 <script setup>
 function update(event) {
-  console.log("flow -> update :", form.children);
+  console.log("flow -> update :", event.children);
 }
 </script>
 <style scoped></style>

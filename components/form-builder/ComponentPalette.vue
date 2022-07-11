@@ -27,7 +27,6 @@
 </template>
 
 <script setup>
-import { valueToNode } from "@babel/types";
 import DragAndDropComponent from "./DragAndDropComponent.vue";
 const components = reactive([
   {
